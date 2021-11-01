@@ -118,7 +118,7 @@
 
 "@mikro-orm/core@^4.5.9":
   version "4.5.9"
-  resolved "https://registry.npmjs.org/@mikro-orm/core/-/core-4.5.9.tgz"
+  resolved "https://registry.yarnpkg.com/@mikro-orm/core/-/core-4.5.9.tgz#1b8fa2915544fc3f00f0b9db100868aeceb5b8f5"
   integrity sha512-kG7nnchwhtDNjsAJ7Lau9ZsyNQo2rBqZg+6T54A/c6v4/yFRltbg3gv6eMd4vefH6PS2AKa71H5L49P105qYmQ==
   dependencies:
     ansi-colors "4.1.1"
@@ -160,7 +160,7 @@
 
 "@mikro-orm/postgresql@^4.5.9":
   version "4.5.9"
-  resolved "https://registry.npmjs.org/@mikro-orm/postgresql/-/postgresql-4.5.9.tgz"
+  resolved "https://registry.yarnpkg.com/@mikro-orm/postgresql/-/postgresql-4.5.9.tgz#3d654a0e6159775b88949655a6f209434e6b10b5"
   integrity sha512-hIXJlPTmf1NUqK8kqeo33qdaXeVlQQOQI03wm8Mfv+mQ0efNZ6VtQnx27tSi5rIJHhVXEzq4ap0CUMxgj/5EQA==
   dependencies:
     "@mikro-orm/knex" "^4.5.9"

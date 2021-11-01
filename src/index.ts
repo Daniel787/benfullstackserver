@@ -19,7 +19,6 @@ import { User } from "./entities/User";
 
 const main = async () => {
   const orm = await MikroORM.init(microConfig);
-  await orm.getMigrator().up();
 
   const app = express();
 
